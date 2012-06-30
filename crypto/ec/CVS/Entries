@@ -1,0 +1,27 @@
+/.cvsignore/1.2/Mon Apr 11 14:16:56 2005//
+/Makefile/1.22/Fri Mar 25 09:30:52 2011//
+/ec.h/1.101/Fri Jun 17 16:47:40 2011//
+/ec2_mult.c/1.15/Mon Feb 14 16:52:12 2011//
+/ec2_oct.c/1.2/Mon Feb 14 16:55:28 2011//
+/ec2_smpl.c/1.23/Mon Feb 14 16:52:12 2011//
+/ec_ameth.c/1.22/Sat Mar  6 18:05:03 2010//
+/ec_asn1.c/1.25/Sat Feb 12 17:23:30 2011//
+/ec_check.c/1.2/Mon Mar 13 23:14:55 2006//
+/ec_curve.c/1.23/Mon Feb 14 16:52:12 2011//
+/ec_cvt.c/1.15/Mon May 23 08:14:32 2011//
+/ec_err.c/1.48/Sat Feb 12 17:23:30 2011//
+/ec_key.c/1.22/Wed May 11 14:43:35 2011//
+/ec_lcl.h/1.52/Sat Apr 23 19:55:54 2011//
+/ec_lib.c/1.43/Mon Feb 14 16:52:12 2011//
+/ec_mult.c/1.38/Mon Feb 14 16:52:12 2011//
+/ec_oct.c/1.2/Thu Mar 10 01:00:28 2011//
+/ec_pmeth.c/1.11/Thu Jul 28 14:40:01 2011//
+/ec_print.c/1.2/Thu Jun  6 10:33:05 2002//
+/eck_prn.c/1.4/Sat Feb 12 17:23:30 2011//
+/ecp_mont.c/1.22/Mon Feb 14 16:52:12 2011//
+/ecp_nist.c/1.32/Mon Feb 14 16:52:12 2011//
+/ecp_nistp224.c/1.5/Fri Mar 25 09:29:45 2011//
+/ecp_oct.c/1.1/Mon Feb 14 16:52:12 2011//
+/ecp_smpl.c/1.35/Mon Feb 14 16:52:12 2011//
+/ectest.c/1.52/Sat Feb 12 17:23:30 2011//
+D

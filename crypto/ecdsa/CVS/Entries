@@ -1,0 +1,12 @@
+/.cvsignore/1.1/Wed Feb 13 18:20:31 2002//
+/Makefile/1.12/Thu Mar 24 22:58:55 2011//
+/ecdsa.h/1.21/Mon Feb 14 17:14:54 2011//
+/ecdsatest.c/1.35/Wed Apr  6 23:42:55 2011//
+/ecs_asn1.c/1.17/Fri Apr 29 15:56:06 2005//
+/ecs_err.c/1.8/Tue Nov 21 21:29:39 2006//
+/ecs_lib.c/1.18/Sat Jun 12 14:13:16 2010//
+/ecs_locl.h/1.6/Wed Jun  8 13:52:36 2011//
+/ecs_ossl.c/1.23/Wed Jun  8 13:52:36 2011//
+/ecs_sign.c/1.8/Wed Sep  9 12:15:08 2009//
+/ecs_vrf.c/1.6/Fri Apr 29 15:56:06 2005//
+D

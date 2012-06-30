@@ -1,0 +1,27 @@
+/.cvsignore/1.4/Mon Apr 11 14:16:46 2005//
+/Makefile/1.10/Wed Jan 26 16:08:01 2011//
+/bio_ber.c/1.10/Thu Apr  7 22:53:35 2005//
+/bio_pk7.c/1.5/Wed Mar 12 21:14:25 2008//
+/dec.c/1.10/Fri Feb  4 14:01:24 2000//
+/des.pem/1.1.1.1/Mon Dec 21 10:59:42 1998//
+/doc/1.1.1.1/Mon Dec 21 10:52:32 1998//
+/enc.c/1.10/Mon Feb 19 16:03:05 2001//
+/es1.pem/1.1.1.1/Mon Dec 21 10:59:42 1998//
+/example.c/1.11/Wed Mar 24 10:50:42 2004//
+/example.h/1.1/Thu Jun  3 16:07:36 1999//
+/info.pem/1.1.1.1/Mon Dec 21 10:59:42 1998//
+/infokey.pem/1.1.1.1/Mon Dec 21 10:59:42 1998//
+/pk7_asn1.c/1.16/Fri Dec 26 15:29:02 2008//
+/pk7_attr.c/1.12/Wed Nov  5 18:39:01 2008//
+/pk7_dgst.c/1.2/Fri Apr 23 22:11:43 1999//
+/pk7_doit.c/1.81/Sat Jun 12 14:13:18 2010//
+/pk7_enc.c/1.2/Fri Apr 23 22:11:43 1999//
+/pk7_lib.c/1.45/Sat Jun 12 14:13:19 2010//
+/pk7_mime.c/1.37/Wed Nov  5 18:39:01 2008//
+/pk7_smime.c/1.42/Sun Mar 15 13:37:33 2009//
+/pkcs7.h/1.74/Tue Jan  5 17:57:33 2010//
+/pkcs7err.c/1.31/Wed May 16 00:14:32 2007//
+/server.pem/1.1.1.1/Mon Dec 21 10:52:32 1998//
+/sign.c/1.9/Mon Feb 19 16:03:05 2001//
+/verify.c/1.10/Wed Jul 24 14:43:00 2002//
+D

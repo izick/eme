@@ -1,0 +1,13 @@
+/.cvsignore/1.2/Mon Apr 11 14:16:48 2005//
+/Makefile/1.7/Wed Jan 26 16:08:00 2011//
+/ocsp.h/1.42/Wed Sep 30 21:40:55 2009//
+/ocsp_asn.c/1.10/Wed Nov  5 18:38:59 2008//
+/ocsp_cl.c/1.7/Tue Dec  4 12:41:28 2007//
+/ocsp_err.c/1.19/Tue Nov 21 21:29:40 2006//
+/ocsp_ext.c/1.16/Thu Jun  7 13:14:36 2007//
+/ocsp_ht.c/1.15/Wed Oct  6 18:00:59 2010//
+/ocsp_lib.c/1.20/Wed May 25 14:52:21 2011//
+/ocsp_prn.c/1.11/Sat Jun 12 14:13:17 2010//
+/ocsp_srv.c/1.5/Wed Nov  5 18:38:59 2008//
+/ocsp_vfy.c/1.16/Mon Dec 29 16:11:55 2008//
+D

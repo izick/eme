@@ -1,0 +1,20 @@
+/.cvsignore/1.7/Thu Apr 17 10:19:06 2008//
+/COPYRIGHT/1.1.1.1/Mon Dec 21 10:52:28 1998//
+/INSTALL/1.1.1.1/Mon Dec 21 10:52:28 1998//
+/Makefile/1.11/Wed Jan 26 16:07:52 2011//
+/README/1.1.1.1/Mon Dec 21 10:52:28 1998//
+/VERSION/1.1.1.1/Mon Dec 21 10:52:28 1998//
+/bf_cbc.c/1.4/Tue Feb  8 14:19:14 2000//
+/bf_cfb64.c/1.4/Tue Feb  8 14:19:14 2000//
+/bf_ecb.c/1.12/Sun Jan 21 13:07:00 2007//
+/bf_enc.c/1.8/Sun Aug 28 22:49:48 2005//
+/bf_locl.h/1.8/Thu Feb  3 23:22:33 2000//
+/bf_ofb64.c/1.4/Tue Feb  8 14:19:14 2000//
+/bf_opts.c/1.11/Fri Nov 28 13:10:54 2003//
+/bf_pi.h/1.2/Tue Feb 15 17:43:12 2000//
+/bf_skey.c/1.8/Wed Nov 12 03:57:52 2008//
+/bfs.cpp/1.2/Fri Apr 23 23:28:16 1999//
+/bfspeed.c/1.11/Fri Nov 28 13:10:54 2003//
+/bftest.c/1.15/Fri Nov 28 13:10:54 2003//
+/blowfish.h/1.12/Wed Nov 12 03:57:52 2008//
+D

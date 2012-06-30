@@ -1,0 +1,12 @@
+/.cvsignore/1.3/Wed Jan  7 23:44:26 2009//
+/Makefile/1.9/Mon Feb 21 17:51:52 2011//
+/camellia.c/1.6/Mon Apr  6 15:13:16 2009//
+/camellia.h/1.5/Tue Dec 23 15:15:43 2008//
+/cmll_cbc.c/1.11/Wed Feb 16 17:24:57 2011//
+/cmll_cfb.c/1.6/Wed Feb 16 17:24:57 2011//
+/cmll_ctr.c/1.5/Wed Feb 16 17:24:57 2011//
+/cmll_ecb.c/1.1/Fri Jun  9 22:29:40 2006//
+/cmll_locl.h/1.10/Mon Apr  6 15:13:16 2009//
+/cmll_misc.c/1.7/Tue Oct 28 12:13:52 2008//
+/cmll_ofb.c/1.4/Wed Feb 16 17:24:57 2011//
+D

@@ -1,0 +1,19 @@
+/.cvsignore/1.5/Mon Apr 11 14:16:48 2005//
+/Makefile/1.10/Wed Jan 26 16:08:00 2011//
+/o_names.c/1.33/Wed Nov 12 03:58:02 2008//
+/obj_dat.c/1.50/Tue Nov 10 01:00:07 2009//
+/obj_dat.h/1.125/Tue Apr 12 23:21:32 2011//
+/obj_dat.pl/1.9/Tue Sep 18 21:05:21 2007//
+/obj_err.c/1.9/Tue Nov 21 21:29:40 2006//
+/obj_lib.c/1.10/Wed Nov 12 03:58:02 2008//
+/obj_mac.h/1.90/Tue Apr 12 23:21:32 2011//
+/obj_mac.num/1.79/Tue Apr 12 23:21:32 2011//
+/obj_xref.c/1.9/Wed Nov  5 18:38:58 2008//
+/obj_xref.h/1.11/Sat Mar  6 19:55:24 2010//
+/obj_xref.txt/1.4/Sat Mar  6 19:55:24 2010//
+/objects.README/1.1/Wed Jul  5 02:45:14 2000//
+/objects.h/1.50/Sat Apr  4 19:54:03 2009//
+/objects.pl/1.7/Wed Mar 19 17:01:12 2008//
+/objects.txt/1.89/Tue Apr 12 23:21:33 2011//
+/objxref.pl/1.4/Tue Apr  7 16:33:25 2009//
+D

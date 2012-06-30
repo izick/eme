@@ -1,0 +1,15 @@
+/.cvsignore/1.5/Mon Apr 11 14:16:45 2005//
+/Makefile/1.7/Wed Jan 26 16:08:03 2011//
+/rc2.h/1.11/Thu Mar 20 23:25:36 2003//
+/rc2_cbc.c/1.4/Sat Jun  3 14:13:54 2000//
+/rc2_ecb.c/1.11/Sun Jan 21 13:07:12 2007//
+/rc2_locl.h/1.1.1.2/Mon Dec 21 10:55:34 1998//
+/rc2_skey.c/1.6/Tue Sep 18 21:10:32 2007//
+/rc2cfb64.c/1.4/Sat Jun  3 14:13:54 2000//
+/rc2ofb64.c/1.4/Sat Jun  3 14:13:54 2000//
+/rc2speed.c/1.13/Tue Feb 28 19:52:15 2006//
+/rc2test.c/1.9/Fri Nov 28 13:10:46 2003//
+/rrc2.doc/1.1.1.1/Mon Dec 21 10:52:33 1998//
+/tab.c/1.1.1.1/Mon Dec 21 10:59:45 1998//
+/version/1.1.1.1/Mon Dec 21 10:52:33 1998//
+D
